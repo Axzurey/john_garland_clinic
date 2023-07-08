@@ -6,7 +6,7 @@
 <body style="background-color: khaki; overflow-x: hidden; font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif">
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
         <a class="navbar-brand" href="/" style="margin-left: 1%;">
-            <img class="d-inline-block align-text-top" src="https://i.pinimg.com/originals/85/95/f4/8595f4b711e503bc72fe396e5043e0c2.png" alt="Bootstrap" width="5%" height="100%">
+            <img class="d-inline-block align-text-top" src="icon.png" alt="clinic icon" width="3%" height="100%">
             John Garland Walk-in Clinic
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#nvc" aria-controls="nvc" aria-expanded="false" aria-label="Toggle navigation">

@@ -6,7 +6,7 @@
 <body style="background-color: khaki; overflow-x: hidden;">
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
         <a class="navbar-brand" href="/" style="margin-left: 1%;">
-            <img class="d-inline-block align-text-top" src="https://i.pinimg.com/originals/85/95/f4/8595f4b711e503bc72fe396e5043e0c2.png" alt="Bootstrap" width="5%" height="100%">
+            <img class="d-inline-block align-text-top" src="icon.png" alt="clinic icon" width="3%" height="100%">
             John Garland Walk-in Clinic
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#nvc" aria-controls="nvc" aria-expanded="false" aria-label="Toggle navigation">
@@ -34,7 +34,7 @@
             </ul>
         </div>
     </nav>
-    <div style='display: flex; filter: blur(0px); -webkit-filter: blur(0px); background-image: url("im5.jpg"); width: 100vw; height: 100vh; background-repeat: no-repeat; background-size: cover; background-position: center;'>
+    <div style='display: flex; filter: blur(0px); -webkit-filter: blur(0px); background-image: url("im5.jpg"); width: 100vw; height: 93.9vh; background-repeat: no-repeat; background-size: cover; background-position: center;'>
     </div>
     <div style="position: absolute; top: 30%; left: 10%; background-color:rgba(255, 255, 255, .9); border-radius: 15px; padding: 2%">
         <p style="font-weight: bold; font-size:3vw; text-shadow: 1px 1px #000000; color: gray;">
@@ -42,7 +42,7 @@
         </p>
         <p style="font-weight: bold; font-size:1vw; color: black">
             We are open from 7am to 9pm on weekdays and 9am - 6pm on weekends.<br/>
-            To book an appointment, please call (+1) 416-423-5235<br/>
+            To book an appointment, please call (416) 742-9988<br/>
             or email us at johngarlandclinic@gmail.com
         </p>
     </div>
